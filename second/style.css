@@ -1,0 +1,44 @@
+body {
+
+}
+
+#left {
+    float: left;
+    background-color: dodgerblue;
+    height: 1000px;
+    width: 33%
+}
+
+#center {
+    float: left;
+    height: 1000px;
+    width: 33%;
+    background-color: aquamarine;
+    vertical-align: center;
+    /* position: relative; */
+}
+
+#right {
+    float: right;
+    background-color: lightgreen;
+    height: 900px;
+    width: 34%;
+}
+
+#box {
+    background-color: red;
+    height: 100px;
+    width: 34%;
+    text-align: center;
+    float: right;
+    /*clear:right;*/
+    /*float: right;*/
+    /*position: relative;*/
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    font-family: ariel;
+    padding-top: 20px;
+}

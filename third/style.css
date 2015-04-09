@@ -1,0 +1,55 @@
+body {
+
+}
+
+.blankbox {
+    width: 100%;
+    height: 150px;
+}
+
+#content {
+    background-color: white;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+#topleftbox {
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+    height: 90px;
+    width: 90px;
+    background-color: cornflowerblue;  
+}
+
+#header {
+    float: right;
+    background-color: lightgray;
+}
+
+#bluebox {
+    background-color: cornflowerblue;
+}
+
+#bluegreenbox {
+    background-color: darkseagreen;
+}
+
+#greenbox {
+    background-color: goldenrod;
+}
+
+#yellowbox {
+    background-color: gold;
+
+}
+.hasguts {
+    margin-bottom: 40px;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    font-family: ariel;
+}
